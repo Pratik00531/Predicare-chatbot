@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+Pipfile.lock
+
+# Streamlit cache
+.streamlit/
+
+# FAISS vectorstore
+vectorstore/
+
+# OS files
+.DS_Store
+Thumbs.db
